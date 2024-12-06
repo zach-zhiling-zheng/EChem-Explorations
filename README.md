@@ -3,7 +3,7 @@
 <img src="image/project.png" width="40%" height="40%">
 
 
-This repository contains code and datasets associated with the research preprint **[Integrating Machine Learning and Large Language Models to Advance Exploration of Electrochemical Reactions](https://chemrxiv.org/engage/chemrxiv/article-details/66cf7e1120ac769e5f241caf)**. This project demonstrates the synergistic potential of machine learning (ML) and large language models (LLMs) for the exploration, prediction, and optimization of electrochemical C-H oxidation reactions.
+This repository contains code and datasets associated with the research paper **[Integrating Machine Learning and Large Language Models to Advance Exploration of Electrochemical Reactions](https://onlinelibrary.wiley.com/doi/10.1002/anie.202418074)** published in Angew. Chem. Int. Ed. 2024, e202418074. This project demonstrates the synergistic potential of machine learning (ML) and large language models (LLMs) for the exploration, prediction, and optimization of electrochemical C-H oxidation reactions.
 
 ## Overview
 
@@ -171,9 +171,9 @@ We extend our gratitude to the Machine Learning for Pharmaceutical Discovery and
 ## References
 For this work:
 
-> ChemRxiv <br/>
+> Angew. Chem. Int. Ed. 2024, e202418074 <br/>
 > Integrating Machine Learning and Large Language Models to Advance Exploration of Electrochemical Reactions <br/>
-> [https://arxiv.org/abs/2303.08774](https://doi.org/10.26434/chemrxiv-2024-pk105-v2) <br/>
+> [https://doi.org/10.1002/anie.202418074](https://onlinelibrary.wiley.com/doi/10.1002/anie.202418074) <br/>
 
 
 
